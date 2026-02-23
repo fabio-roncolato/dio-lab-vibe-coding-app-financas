@@ -87,3 +87,14 @@ No README do seu repositório, inclua:
 ## 💬 Conclusão
 
 Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+
+Segue imagem da minha tela após gerar o aplicativo pelo lovable:
+
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/996820e5-d57b-43c4-a95d-19435bb69e1e" />
+
+Testei uma geração de prompt com o Gemini, Mas não consegui avançar tão bem quanto no lovable.
+
+https://gemini.google.com/app/443adc88895e4047?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all
+
+Achei interessante essa integração da geração de prompt e construção de aplicativo com recursos de IA facilitando para quem não domina conhecimentos de programação e necessita de um aplicativo para gestão financeira.
+
